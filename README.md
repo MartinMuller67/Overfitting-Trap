@@ -132,7 +132,7 @@ fees, 4 out of 7 windows still ended in a loss.
 
 ```bash
 pip install -r requirements.txt
-python overfitting_demo_v2.py
+python overfitting_v2.py
 ```
 
 Set `USE_REAL_DATA = True` at the top of the script to pull real prices
